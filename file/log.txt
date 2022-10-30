@@ -1,0 +1,464 @@
+
+% NEW ROUND START AT 2022-10-30 00:55:22.060305 %
+-NEWSTATE: time 2022-10-30 00:55:22.061699, current state: idle
+-NEWSTATE: time 2022-10-30 00:55:23.593273, current state: login
+-NEWSTATE: time 2022-10-30 00:55:48.437815, current state: idle
+-NEWSTATE: time 2022-10-30 00:55:49.402973, current state: getinfo
+-NEWSTATE: time 2022-10-30 00:55:53.855694, current state: collection
+ -PAGE: current page has 10 courses.
+ -00200901 ï¿½ï¿½Ñ§ï¿½ï¿½ï¿½ï¿½Òµï¿½ï¿½ï¿½ï¿½ has 8 clips(0 in DB), 8 clips newly downloaded
+ -00200902 ï¿½ï¿½Ñ§ï¿½ï¿½ï¿½ï¿½Òµï¿½ï¿½ï¿½ï¿½ has 9 clips(0 in DB), 8 clips newly downloaded
+ -00201001 Ö°ÒµÖ¸ï¿½ï¿½ has 11 clips(0 in DB), 8 clips newly downloaded
+ -00201501 ï¿½ï¿½Ñ§ï¿½ï¿½Ö°Òµï¿½ï¿½ï¿½Ä¹æ»® has 8 clips(0 in DB), 8 clips newly downloaded
+ -00201502 ï¿½ï¿½Ñ§ï¿½ï¿½Ö°Òµï¿½ï¿½ï¿½Ä¹æ»® has 5 clips(0 in DB), 5 clips newly downloaded
+ -00202001 Ö°Òµï¿½ï¿½Õ¹ï¿½ï¿½ï¿½ï¿½ï¿½Ò¹ï¿½ï¿½ï¿½ has 9 clips(0 in DB), 7 clips newly downloaded
+ -00209201 ï¿½ï¿½Ñ§ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ has 6 clips(0 in DB), 6 clips newly downloaded
+ -00209601 ï¿½ï¿½Òµï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ğ¾ï¿½ has 6 clips(0 in DB), 6 clips newly downloaded
+ -00211301 ï¿½ï¿½Ñ§ï¿½ï¿½ï¿½ï¿½ï¿½Êµï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ has 13 clips(0 in DB), 7 clips newly downloaded
+ -00211302 ï¿½ï¿½Ñ§ï¿½ï¿½ï¿½ï¿½ï¿½Êµï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ has 5 clips(0 in DB), 5 clips newly downloaded
+ -PAGE: current page has 10 courses.
+ -00213501 ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ê¡Ë¼ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Î¹ï¿½ï¿½ï¿½ï¿½ï¿½Ò»ï¿½ï¿½ has 0 clips(0 in DB), done.
+ -00213502 ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ê¡Ë¼ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Î¹ï¿½ï¿½ï¿½ï¿½ï¿½Ò»ï¿½ï¿½ has 14 clips(0 in DB), 13 clips newly downloaded
+ -00213503 ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ê¡Ë¼ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Î¹ï¿½ï¿½ï¿½ï¿½ï¿½Ò»ï¿½ï¿½ has 10 clips(0 in DB), 9 clips newly downloaded
+ -00213504 ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ê¡Ë¼ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Î¹ï¿½ï¿½ï¿½ï¿½ï¿½Ò»ï¿½ï¿½ has 7 clips(0 in DB), 7 clips newly downloaded
+ -00213505 ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ê¡Ë¼ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Î¹ï¿½ï¿½ï¿½ï¿½ï¿½Ò»ï¿½ï¿½ has 7 clips(0 in DB), 4 clips newly downloaded
+ -00213601 ï¿½ï¿½ï¿½ï¿½Êµï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Öª has 5 clips(0 in DB), 3 clips newly downloaded
+ -00213801 ï¿½ï¿½Ñ§ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ğ´ï¿½ï¿½ has 8 clips(0 in DB), 8 clips newly downloaded
+ -00300301 ï¿½ï¿½Ñ§ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ has 8 clips(0 in DB), 8 clips newly downloaded
+ -00302201 ï¿½ï¿½ï¿½ã·½ï¿½ï¿½ has 19 clips(0 in DB), 15 clips newly downloaded
+ -00302301 ï¿½ï¿½ï¿½ã·½ï¿½ï¿½(ï¿½Ï»ï¿½) has 7 clips(0 in DB), 1 clips newly downloaded
+ -PAGE: current page has 10 courses.
+ -00302302 ï¿½ï¿½ï¿½ã·½ï¿½ï¿½(ï¿½Ï»ï¿½) has 7 clips(0 in DB), 0 clips newly downloaded
+ -00400201 ï¿½ï¿½Ñ§ï¿½ï¿½Ñ§ï¿½Èµï¿½ has 10 clips(0 in DB), 6 clips newly downloaded
+ -00400401 Python ï¿½ï¿½Ñ§ï¿½ï¿½Ä£Ó¦ï¿½ï¿½Êµï¿½ï¿½ has 7 clips(0 in DB), 7 clips newly downloaded
+ -00401102 ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½(ï¿½ï¿½) has 12 clips(0 in DB), 12 clips newly downloaded
+ -00401502 ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ñ§(ï¿½ï¿½)(ï¿½ï¿½) has 13 clips(0 in DB), 12 clips newly downloaded
+ -00700101 ï¿½ï¿½ï¿½Â·ï¿½ï¿½ï¿½ï¿½ë´´Òµï¿½ï¿½ï¿½ï¿½ has 17 clips(0 in DB), 17 clips newly downloaded
+ -00700102 ï¿½ï¿½ï¿½Â·ï¿½ï¿½ï¿½ï¿½ë´´Òµï¿½ï¿½ï¿½ï¿½ has 11 clips(0 in DB), 9 clips newly downloaded
+ -00700103 ï¿½ï¿½ï¿½Â·ï¿½ï¿½ï¿½ï¿½ë´´Òµï¿½ï¿½ï¿½ï¿½ has 7 clips(0 in DB), 7 clips newly downloaded
+ -00700104 ï¿½ï¿½ï¿½Â·ï¿½ï¿½ï¿½ï¿½ë´´Òµï¿½ï¿½ï¿½ï¿½ has 7 clips(0 in DB), 7 clips newly downloaded
+ -00700105 ï¿½ï¿½ï¿½Â·ï¿½ï¿½ï¿½ï¿½ë´´Òµï¿½ï¿½ï¿½ï¿½ has 7 clips(0 in DB), 0 clips newly downloaded
+ -PAGE: current page has 10 courses.
+ -00700106 ï¿½ï¿½ï¿½Â·ï¿½ï¿½ï¿½ï¿½ë´´Òµï¿½ï¿½ï¿½ï¿½ has 7 clips(0 in DB), 7 clips newly downloaded
+ -00700108 ï¿½ï¿½ï¿½Â·ï¿½ï¿½ï¿½ï¿½ë´´Òµï¿½ï¿½ï¿½ï¿½ has 18 clips(0 in DB), 18 clips newly downloaded
+ -00700109 ï¿½ï¿½ï¿½Â·ï¿½ï¿½ï¿½ï¿½ë´´Òµï¿½ï¿½ï¿½ï¿½ has 8 clips(0 in DB), 8 clips newly downloaded
+ -00700112 ï¿½ï¿½ï¿½Â·ï¿½ï¿½ï¿½ï¿½ë´´Òµï¿½ï¿½ï¿½ï¿½ has 11 clips(0 in DB), 6 clips newly downloaded
+ -00700113 ï¿½ï¿½ï¿½Â·ï¿½ï¿½ï¿½ï¿½ë´´Òµï¿½ï¿½ï¿½ï¿½ has 7 clips(0 in DB), 7 clips newly downloaded
+ -00701101 ï¿½ï¿½á´´ï¿½Â´ï¿½Òµ has 7 clips(0 in DB), 7 clips newly downloaded
+ -00701102 ï¿½ï¿½á´´ï¿½Â´ï¿½Òµ has 24 clips(0 in DB), 23 clips newly downloaded
+ -00701103 ï¿½ï¿½á´´ï¿½Â´ï¿½Òµ has 2 clips(0 in DB), 1 clips newly downloaded
+ -00701201 ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Òµï¿½ï¿½ï¿½ï¿½Êµï¿½ï¿½ has 7 clips(0 in DB), 7 clips newly downloaded
+ -00701401 ï¿½ï¿½ï¿½Â´ï¿½Òµï¿½ï¿½ÖªÊ¶ï¿½ï¿½È¨ has 7 clips(0 in DB), 7 clips newly downloaded
+ -PAGE: current page has 10 courses.
+ -00701402 ï¿½ï¿½ï¿½Â´ï¿½Òµï¿½ï¿½ÖªÊ¶ï¿½ï¿½È¨ has 8 clips(0 in DB), 8 clips newly downloaded
+ -00701501 ï¿½ï¿½Òµï¿½ï¿½ï¿½ï¿½ has 2 clips(0 in DB), 2 clips newly downloaded
+ -00702102 ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ë¹ï¿½ï¿½ï¿½ï¿½ï¿½Ç°ï¿½ï¿½ has 5 clips(0 in DB), 5 clips newly downloaded
+ -00703101 ï¿½ï¿½Òµï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Êµï¿½ï¿½ has 2 clips(0 in DB), 2 clips newly downloaded
+ -00703102 ï¿½ï¿½Òµï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Êµï¿½ï¿½ has 0 clips(0 in DB), done.
+ -00703202 ï¿½ï¿½Ê·ï¿½ÏµÄ¹ï¿½ï¿½ï¿½ has 7 clips(0 in DB), 7 clips newly downloaded
+ -00703402 ï¿½ï¿½Òµï¿½ï¿½ï¿½ï¿½ has 3 clips(0 in DB), 3 clips newly downloaded
+ -00800501 ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ñ§ has 9 clips(0 in DB), 9 clips newly downloaded
+ -00800801 ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ğ·ï¿½ï¿½ï¿½ has 8 clips(0 in DB), 7 clips newly downloaded
+ -00801701 ï¿½ï¿½ï¿½ï¿½ï¿½Ğ³ï¿½Óªï¿½ï¿½ has 7 clips(0 in DB), 7 clips newly downloaded
+ -PAGE: current page has 10 courses.
+ -00801801 ï¿½ï¿½ï¿½ï¿½ï¿½Í½ï¿½ï¿½ï¿½Ô­ï¿½ï¿½ has 9 clips(0 in DB), 8 clips newly downloaded
+ -00802401 ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Òµï¿½ï¿½ï¿½ï¿½ has 7 clips(0 in DB), 7 clips newly downloaded
+ -00802601 ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ğ·ï¿½ has 6 clips(0 in DB), 6 clips newly downloaded
+ -00804501 ï¿½ï¿½ï¿½Ê¿Î³ï¿½4(ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Òµï¿½ï¿½ï¿½Ğ³ï¿½Óªï¿½ï¿½) has 0 clips(0 in DB), done.
+ -00804601 ï¿½ï¿½ï¿½Ê¿Î³ï¿½5(ï¿½ï¿½ï¿½ï¿½ï¿½Ë¶ï¿½ï¿½ìµ¼ï¿½ï¿½) has 0 clips(0 in DB), done.
+ -00804701 ï¿½ï¿½ï¿½Ê¿Î³ï¿½6(ï¿½Ë¶ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ë¿µï¿½ï¿½) has 7 clips(0 in DB), 6 clips newly downloaded
+ -00804801 ï¿½ï¿½ï¿½Ê¿Î³ï¿½7(ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ßºÍ¶ï¿½Ôªï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½) has 0 clips(0 in DB), done.
+ -00805501 ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ë¹ï¿½ï¿½ï¿½ï¿½ï¿½ has 9 clips(0 in DB), 9 clips newly downloaded
+ -00806001 ×¨ï¿½ï¿½ï¿½Ñ§ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Êµï¿½ï¿½5 has 5 clips(0 in DB), 5 clips newly downloaded
+ -00806501 ï¿½ï¿½ï¿½î·½Ê½ï¿½ï¿½ï¿½ï¿½ï¿½Ø¹ï¿½ï¿½ï¿½ has 9 clips(0 in DB), 9 clips newly downloaded
+ -PAGE: current page has 10 courses.
+ -00806701 ï¿½ï¿½ï¿½ï¿½ï¿½Ë¶ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ has 7 clips(0 in DB), 6 clips newly downloaded
+ -01002301 ï¿½ï¿½ï¿½Ø²ï¿½ï¿½ï¿½ï¿½ï¿½ has 8 clips(0 in DB), 7 clips newly downloaded
+ -01003901 ï¿½ï¿½ï¿½ï¿½Óªï¿½ï¿½Ñ§ has 7 clips(0 in DB), 7 clips newly downloaded
+ -01003902 ï¿½ï¿½ï¿½ï¿½Óªï¿½ï¿½Ñ§ has 9 clips(0 in DB), 
+ 
+% NEW ROUND START AT 2022-10-30 01:21:52.845273 %
+-NEWSTATE: time 2022-10-30 01:21:52.850858, current state: idle
+-NEWSTATE: time 2022-10-30 01:21:57.820757, current state: login
+-NEWSTATE: time 2022-10-30 01:22:27.858965, current state: idle
+-NEWSTATE: time 2022-10-30 01:22:29.151660, current state: getinfo
+-NEWSTATE: time 2022-10-30 01:22:36.077152, current state: collection
+ -PAGE: current page has 10 courses.
+ -00200901 ´óÑ§Éú´´Òµ»ù´¡ has 8 clips(8 in DB), done.
+ -00200902 ´óÑ§Éú´´Òµ»ù´¡ has 9 clips(8 in DB), 0 clips newly downloaded
+ -00201001 Ö°ÒµÖ¸µ¼ has 11 clips(8 in DB), 0 clips newly downloaded
+ -00201501 ´óÑ§ÉúÖ°ÒµÉúÑÄ¹æ»® has 8 clips(8 in DB), done.
+ -00201502 ´óÑ§ÉúÖ°ÒµÉúÑÄ¹æ»® has 5 clips(5 in DB), done.
+ -00202001 Ö°Òµ·¢Õ¹Óë×ÔÎÒ¹ÜÀí has 9 clips(7 in DB), 0 clips newly downloaded
+ -00209201 ´óÑ§ÉúÑÄÆôº½ has 6 clips(6 in DB), done.
+ -00209601 ´´Òµ°¸Àı·ÖÎöÓëÑĞ¾¿ has 6 clips(6 in DB), done.
+ -00211301 ´óÑ§ÉúÉç»áÊµ¼ùÈëÃÅ has 13 clips(7 in DB), 0 clips newly downloaded
+ -00211302 ´óÑ§ÉúÉç»áÊµ¼ùÈëÃÅ has 5 clips(5 in DB), done.
+ -PAGE: current page has 10 courses.
+ -00213501 ÉúÃüµÄÊ¡Ë¼¡ª¡ªÈçºÎ¹ıºÃÕâÒ»Éú has 0 clips(0 in DB), done.
+ -00213502 ÉúÃüµÄÊ¡Ë¼¡ª¡ªÈçºÎ¹ıºÃÕâÒ»Éú has 14 clips(13 in DB), 0 clips newly downloaded
+ -00213503 ÉúÃüµÄÊ¡Ë¼¡ª¡ªÈçºÎ¹ıºÃÕâÒ»Éú has 10 clips(9 in DB), 0 clips newly downloaded
+ -00213504 ÉúÃüµÄÊ¡Ë¼¡ª¡ªÈçºÎ¹ıºÃÕâÒ»Éú has 7 clips(7 in DB), done.
+ -00213505 ÉúÃüµÄÊ¡Ë¼¡ª¡ªÈçºÎ¹ıºÃÕâÒ»Éú has 7 clips(4 in DB), 0 clips newly downloaded
+ -00213601 ÃÀÓıÊµ¼ùÓëÒôÎè¸ĞÖª has 5 clips(3 in DB), 0 clips newly downloaded
+ -00213801 ´óÑ§Éú¹«ÎÄĞ´×÷ has 8 clips(8 in DB), done.
+ -00300301 ÊıÑ§ÓëÒÕÊõ has 8 clips(8 in DB), done.
+ -00302201 ¼ÆËã·½·¨ has 19 clips(15 in DB), 0 clips newly downloaded
+ -00302301 ¼ÆËã·½·¨(ÉÏ»ú) has 7 clips(1 in DB), 0 clips newly downloaded
+ -PAGE: current page has 10 courses.
+ -00302302 ¼ÆËã·½·¨(ÉÏ»ú) has 7 clips(0 in DB), 0 clips newly downloaded
+ -00400201 ´óÑ§»¯Ñ§ÏÈµ¼ has 10 clips(6 in DB), 0 clips newly downloaded
+ -00400401 Python ÊıÑ§½¨Ä£Ó¦ÓÃÊµ¼ù has 7 clips(7 in DB), done.
+ -00401102 ÒÇÆ÷·ÖÎö(ÈÙ) has 12 clips(12 in DB), done.
+ -00401502 ÎïÀí»¯Ñ§(ÏÂ)(ÈÙ) has 13 clips(12 in DB), 0 clips newly downloaded
+ -00700101 ´´ĞÂ·½·¨Óë´´Òµ»ù´¡ has 17 clips(17 in DB), done.
+ -00700102 ´´ĞÂ·½·¨Óë´´Òµ»ù´¡ has 11 clips(9 in DB), 0 clips newly downloaded
+ -00700103 ´´ĞÂ·½·¨Óë´´Òµ»ù´¡ has 7 clips(7 in DB), done.
+ -00700104 ´´ĞÂ·½·¨Óë´´Òµ»ù´¡ has 7 clips(7 in DB), done.
+ -00700105 ´´ĞÂ·½·¨Óë´´Òµ»ù´¡ has 7 clips(0 in DB), 0 clips newly downloaded
+ -PAGE: current page has 10 courses.
+ -00700106 ´´ĞÂ·½·¨Óë´´Òµ»ù´¡ has 7 clips(7 in DB), done.
+ -00700108 ´´ĞÂ·½·¨Óë´´Òµ»ù´¡ has 18 clips(18 in DB), done.
+ -00700109 ´´ĞÂ·½·¨Óë´´Òµ»ù´¡ has 8 clips(8 in DB), done.
+ -00700112 ´´ĞÂ·½·¨Óë´´Òµ»ù´¡ has 11 clips(6 in DB), 0 clips newly downloaded
+ -00700113 ´´ĞÂ·½·¨Óë´´Òµ»ù´¡ has 7 clips(7 in DB), done.
+ -00701101 Éç»á´´ĞÂ´´Òµ has 7 clips(7 in DB), done.
+ -00701102 Éç»á´´ĞÂ´´Òµ has 24 clips(23 in DB), 0 clips newly downloaded
+ -00701103 Éç»á´´ĞÂ´´Òµ has 2 clips(1 in DB), 0 clips newly downloaded
+ -00701201 ³õ´´ÆóÒµ·¨ÂÉÊµÎñ has 7 clips(7 in DB), done.
+ -00701401 ´´ĞÂ´´ÒµÓëÖªÊ¶²úÈ¨ has 7 clips(7 in DB), done.
+ -PAGE: current page has 10 courses.
+ -00701402 ´´ĞÂ´´ÒµÓëÖªÊ¶²úÈ¨ has 8 clips(8 in DB), done.
+ -00701501 ´´ÒµĞŞÁ¶ has 2 clips(2 in DB), done.
+ -00702102 »úÆ÷ÈËÓëÈË¹¤ÖÇÄÜÇ°ÑØ has 5 clips(5 in DB), done.
+ -00703101 ´´Òµ¾ºÈü½ø½×ÓëÊµ¼ù has 2 clips(2 in DB), done.
+ -00703102 ´´Òµ¾ºÈü½ø½×ÓëÊµ¼ù has 0 clips(0 in DB), done.
+ -00703202 ÀúÊ·ÉÏµÄ¹¤³Ì has 7 clips(7 in DB), done.
+ -00703402 ´´ÒµĞŞÁ¶ has 3 clips(3 in DB), done.
+ -00800501 ÌåÓıĞÄÀíÑ§ has 9 clips(9 in DB), done.
+ -00800801 ÌåÓı¿ÆÑĞ·½·¨ has 8 clips(7 in DB), 0 clips newly downloaded
+ -00801701 ÌåÓıÊĞ³¡ÓªÏú has 7 clips(7 in DB), done.
+ -PAGE: current page has 10 courses.
+ -00801801 ½ÌÁ·ºÍ½ÌÓıÔ­Àí has 9 clips(8 in DB), 0 clips newly downloaded
+ -00802401 ÌåÓı²úÒµµ¼ÂÛ has 7 clips(7 in DB), done.
+ -00802601 ×ãÇò¾ºÈü¹æÔòÓë²ÃÅĞ·¨ has 6 clips(6 in DB), done.
+ -00804501 ¹ú¼Ê¿Î³Ì4(×ãÇòÉÌÒµÓëÊĞ³¡ÓªÏú) has 0 clips(0 in DB), done.
+ -00804601 ¹ú¼Ê¿Î³Ì5(ÌåÓıÔË¶¯Áìµ¼Á¦) has 0 clips(0 in DB), done.
+ -00804701 ¹ú¼Ê¿Î³Ì6(ÔË¶¯ËğÉËÓë¿µ¸´) has 7 clips(6 in DB), 0 clips newly downloaded
+ -00804801 ¹ú¼Ê¿Î³Ì7(ÌåÓıÕş²ßºÍ¶àÔª»¯Éç»áÕş²ß) has 0 clips(0 in DB), done.
+ -00805501 ÌåÓıÓëÈË¹¤ÖÇÄÜ has 9 clips(9 in DB), done.
+ -00806001 ×¨Ïî½ÌÑ§ÀíÂÛÓëÊµ¼ù5 has 5 clips(5 in DB), done.
+ -00806501 Éú»î·½Ê½ÓëÌåÖØ¹ÜÀí has 9 clips(9 in DB), done.
+ -PAGE: current page has 10 courses.
+ -00806701 ×ãÇòÔË¶¯Óë×ãÇòÏÖÏó has 7 clips(6 in DB), 0 clips newly downloaded
+ -01002301 ·¿µØ²ú¹À¼Û has 8 clips(7 in DB), 0 clips newly downloaded
+ -01003901 ¹ú¼ÊÓªÏúÑ§ has 7 clips(7 in DB), done.
+ -01003902 ¹ú¼ÊÓªÏúÑ§ has 9 clips(0 in DB), 8 clips newly downloaded
+ -01003903 ¹ú¼ÊÓªÏúÑ§ has 6 clips(0 in DB), 6 clips newly downloaded
+ -01010001 ¾­¼ÃÑ§Ô­Àí has 9 clips(0 in DB), 8 clips newly downloaded
+ -01017901 ¾­¼Ã·¨ has 0 clips(0 in DB), done.
+ -01017903 ¾­¼Ã·¨ has 7 clips(0 in DB), 7 clips newly downloaded
+ -01017904 ¾­¼Ã·¨ has 8 clips(0 in DB), 8 clips newly downloaded
+ -01017905 ¾­¼Ã·¨ has 8 clips(0 in DB), 8 clips newly downloaded
+ -PAGE: current page has 10 courses.
+ -01017906 ¾­¼Ã·¨ has 9 clips(0 in DB), 8 clips newly downloaded
+ -01025201 ¹¤³ÌÏîÄ¿¹ÜÀí has 6 clips(0 in DB), 6 clips newly downloaded
+ -01025301 ¹ú¼ÊÃ³Ò×ÀíÂÛ has 8 clips(0 in DB), 8 clips newly downloaded
+ -01025701 ½¨ÉèÓë·¿µØ²ú·¨¹æ has 10 clips(0 in DB), 9 clips newly downloaded
+ -01028002 ÔËÊäÓëÅäËÍ has 8 clips(0 in DB), 8 clips newly downloaded
+ -01029201 Éó¼ÆÑ§ has 8 clips(0 in DB), 8 clips newly downloaded
+ -01029202 Éó¼ÆÑ§ has 7 clips(0 in DB), 7 clips newly downloaded
+ -01030302 Õ½ÂÔ¹ÜÀí has 6 clips(0 in DB), 6 clips newly downloaded
+ -01030303 Õ½ÂÔ¹ÜÀí has 7 clips(0 in DB), 7 clips newly downloaded
+ -01034101 ÊĞ³¡ÓªÏú has 9 clips(0 in DB), 9 clips newly downloaded
+ -PAGE: current page has 10 courses.
+ -01035201 ½¨ÖşÉè±¸ has 10 clips(0 in DB), 9 clips newly downloaded
+ -01037601 ÈËÁ¦×ÊÔ´¹ÜÀí has 7 clips(0 in DB), 7 clips newly downloaded
+ -01037603 ÈËÁ¦×ÊÔ´¹ÜÀí has 28 clips(0 in DB), 7 clips newly downloaded
+ -01037801 ÖÊÁ¿¹ÜÀí has 7 clips(0 in DB), 7 clips newly downloaded
+ -01037802 ÖÊÁ¿¹ÜÀí has 0 clips(0 in DB), done.
+ -01037803 ÖÊÁ¿¹ÜÀí has 8 clips(0 in DB), 8 clips newly downloaded
+ -01040101 ¹ÜÀíÑ§¸ÅÂÛ has 0 clips(0 in DB), done.
+ -01042002 ×éÖ¯ĞĞÎªÑ§ has 2 clips(0 in DB), 2 clips newly downloaded
+ -01042003 ×éÖ¯ĞĞÎªÑ§ has 27 clips(0 in DB), 8 clips newly downloaded
+ -01042005 ×éÖ¯ĞĞÎªÑ§ has 11 clips(0 in DB), 9 clips newly downloaded
+ -PAGE: current page has 10 courses.
+ -01042006 ×éÖ¯ĞĞÎªÑ§ has 28 clips(0 in DB), 8 clips newly downloaded
+ -01044501 ÔË³ïÑ§ has 8 clips(0 in DB), 8 clips newly downloaded
+ -01044502 ÔË³ïÑ§ has 8 clips(0 in DB), 6 clips newly downloaded
+ -01046502 ÖĞ¼¶²ÆÎñ»á¼Æ(ÉÏ) has 8 clips(0 in DB), 8 clips newly downloaded
+ -01047501 »á¼Æ×¨Ìâ½²×ù has 7 clips(0 in DB), 7 clips newly downloaded
+ -01049801 ¹ÜÀí¹µÍ¨ has 45 clips(0 in DB), 8 clips newly downloaded
+ -01049802 ¹ÜÀí¹µÍ¨ has 50 clips(0 in DB), 12 clips newly downloaded
+ -01052201 ·çÏÕÍ¶×ÊÓë×Ê±¾ÊĞ³¡ has 9 clips(0 in DB), 9 clips newly downloaded
+ -01056401 ÔËÓª¹ÜÀí has 10 clips(0 in DB), 10 clips newly downloaded
+ -01056402 ÔËÓª¹ÜÀí has 6 clips(0 in DB), 6 clips newly downloaded
+ -PAGE: current page has 10 courses.
+ -01056403 ÔËÓª¹ÜÀí has 17 clips(0 in DB), 12 clips newly downloaded
+ -01058101 ¿Í»§¹ØÏµ¹ÜÀí has 12 clips(0 in DB), 10 clips newly downloaded
+ -01058102 ¿Í»§¹ØÏµ¹ÜÀí has 14 clips(0 in DB), 8 clips newly downloaded
+ -01058701 ÖĞ¼¶²ÆÎñ¹ÜÀí has 14 clips(0 in DB), 8 clips newly downloaded
+ -01058901 Ë°Îñ»á¼Æ has 10 clips(0 in DB), 8 clips newly downloaded
+ -01061602 ¹ÜÀíĞÅÏ¢ÏµÍ³(B) has 7 clips(0 in DB), 1 clips newly downloaded
+ -01061701 ¹¤³Ì¾­¼ÃÑ§ has 10 clips(0 in DB), 7 clips newly downloaded
+ -01061702 ¹¤³Ì¾­¼ÃÑ§ has 8 clips(0 in DB), 8 clips newly downloaded
+ -01061704 ¹¤³Ì¾­¼ÃÑ§ has 9 clips(0 in DB), 9 clips newly downloaded
+ -01071202 ÏÖ´ú²Ö´¢¹ÜÀí has 2 clips(0 in DB), 0 clips newly downloaded
+ -PAGE: current page has 10 courses.
+ -01071701 ¼ÆÁ¿¾­¼ÃÑ§ has 9 clips(0 in DB), 9 clips newly downloaded
+ -01071702 ¼ÆÁ¿¾­¼ÃÑ§ has 8 clips(0 in DB), 8 clips newly downloaded
+ -01072601 ÈËÁ¦×ÊÔ´¿ª·¢Óë¹ÜÀí has 7 clips(0 in DB), 6 clips newly downloaded
+ -01072602 ÈËÁ¦×ÊÔ´¿ª·¢Óë¹ÜÀí has 9 clips(0 in DB), 7 clips newly downloaded
+ -01074801 ¹ú¼Ê½ğÈÚÓë¹ÜÀí has 7 clips(0 in DB), 7 clips newly downloaded
+ -01074802 ¹ú¼Ê½ğÈÚÓë¹ÜÀí has 9 clips(0 in DB), 9 clips newly downloaded
+ -01079201 ·çÏÕ¹ÜÀíÓë±£ÏÕ has 9 clips(0 in DB), 8 clips newly downloaded
+ -01079202 ·çÏÕ¹ÜÀíÓë±£ÏÕ has 8 clips(0 in DB), 8 clips newly downloaded
+ -01081001 ÏîÄ¿¹ÜÀí has 10 clips(0 in DB), 9 clips newly downloaded
+ -01081002 ÏîÄ¿¹ÜÀí has 7 clips(0 in DB), 7 clips newly downloaded
+ -PAGE: current page has 10 courses.
+ -01081005 ÏîÄ¿¹ÜÀí has 10 clips(0 in DB), 8 clips newly downloaded
+ -01081006 ÏîÄ¿¹ÜÀí has 7 clips(0 in DB), 7 clips newly downloaded
+ -01081007 ÏîÄ¿¹ÜÀí has 8 clips(0 in DB), 7 clips newly downloaded
+ -01081201 ¹¤³Ì·çÏÕ¹ÜÀíÓë±£ÏÕ has 7 clips(0 in DB), 6 clips newly downloaded
+ -01081202 ¹¤³Ì·çÏÕ¹ÜÀíÓë±£ÏÕ has 6 clips(0 in DB), 6 clips newly downloaded
+ -01083501 ÉÌÎñÖÇÄÜ has 8 clips(0 in DB), 8 clips newly downloaded
+ -01083502 ÉÌÎñÖÇÄÜ has 8 clips(0 in DB), 8 clips newly downloaded
+ -01084101 ¹ú¼ÊÎïÁ÷ has 8 clips(0 in DB), 7 clips newly downloaded
+ -01084501 ¾ö²ßÄ£Äâ has 8 clips(0 in DB), 8 clips newly downloaded
+ -01084502 ¾ö²ßÄ£Äâ has 9 clips(0 in DB), 9 clips newly downloaded
+ -PAGE: current page has 10 courses.
+ -01085101 ´´ÒµÑ§ has 8 clips(0 in DB), 8 clips newly downloaded
+ -01085102 ´´ÒµÑ§ has 0 clips(0 in DB), done.
+ -01085103 ´´ÒµÑ§ has 7 clips(0 in DB), 7 clips newly downloaded
+ -01085303 ÉÌÒµÂ×Àí has 8 clips(0 in DB), 8 clips newly downloaded
+ -01085401 »õ±Ò½ğÈÚÑ§ has 6 clips(0 in DB), 3 clips newly downloaded
+ -01085402 »õ±Ò½ğÈÚÑ§ has 6 clips(0 in DB), 6 clips newly downloaded
+ -01085501 ¹«Ë¾ÖÎÀí has 6 clips(0 in DB), 6 clips newly downloaded
+ -01085701 ·şÎñÓªÏúÑ§ has 6 clips(0 in DB), 6 clips newly downloaded
+ -01085702 ·şÎñÓªÏúÑ§ has 9 clips(0 in DB), 9 clips newly downloaded
+ -01087301 ¹«¹²¹ÜÀíÓ¢ÓïÔ­ÖøÑ¡¶Á has 6 clips(0 in DB), 6 clips newly downloaded
+ -PAGE: current page has 10 courses.
+ -01087701 ¿É³ÖĞø·¢Õ¹Óë¹ÜÀí has 7 clips(0 in DB), 7 clips newly downloaded
+ -01091201 ³ÇÊĞÓë¾Ó×¡¹æ»®Ô­Àí has 7 clips(0 in DB), 7 clips newly downloaded
+ -01091601 ÉÌÎñÀñÒÇ has 9 clips(0 in DB), 8 clips newly downloaded
+ -01091602 ÉÌÎñÀñÒÇ has 11 clips(0 in DB), 9 clips newly downloaded
+ -01092201 ½¨ÖşÊ©¹¤¼¼Êõ has 8 clips(0 in DB), 8 clips newly downloaded
+ -01092602 »á¼ÆÑ§Ô­Àí has 7 clips(0 in DB), 7 clips newly downloaded
+ -01092901 »õ±Ò½ğÈÚÑ§ has 5 clips(0 in DB), 5 clips newly downloaded
+ -01093201 ÓªÏú¹ÜÀí has 7 clips(0 in DB), 7 clips newly downloaded
+ -01093202 ÓªÏú¹ÜÀí has 8 clips(0 in DB), 8 clips newly downloaded
+ -01093301 ¹ÜÀíÑ§Ô­Àí has 9 clips(0 in DB), 9 clips newly downloaded
+ -PAGE: current page has 10 courses.
+ -01094001 ÈË¿Ú¹ÜÀí has 7 clips(0 in DB), 7 clips newly downloaded
+ -01094401 ÂÌÉ«¾­¼Ã has 7 clips(0 in DB), 6 clips newly downloaded
+ -01095501 ÈËÁ¦×ÊÔ´¹ÜÀí(Ó¢) has 9 clips(0 in DB), 9 clips newly downloaded
+ -01095701 ÊĞ³¡ÓªÏúÑ§(Ó¢) has 0 clips(0 in DB), done.
+ -01096801 ÖĞ¹ú½ğÈÚÊĞ³¡ has 9 clips(0 in DB), 0 clips newly downloaded
+ -01096901 ¿çÎÄ»¯¹µÍ¨ has 21 clips(0 in DB), 21 clips newly downloaded
+ -01098301 ĞéÄâÉè¼ÆÓëÊ©¹¤ has 11 clips(0 in DB), 9 clips newly downloaded
+ -01098701 ¹Ì¶¨ÊÕÒæÖ¤È¯ has 8 clips(0 in DB), 8 clips newly downloaded
+ -01105401 ÏµÍ³¹¤³Ì¼°ÆäÓ¦ÓÃ has 10 clips(0 in DB), 9 clips newly downloaded
+ -01106001 Âß¼­Ñ§¸ÅÂÛ has 8 clips(0 in DB), 8 clips newly downloaded
+ -PAGE: current page has 10 courses.
+ -01106002 Âß¼­Ñ§¸ÅÂÛ has 9 clips(0 in DB), 9 clips newly downloaded
+ -01107301 ¹ú¼Ê¾­¼Ã¹ØÏµ has 9 clips(0 in DB), 9 clips newly downloaded
+ -01107501 ÓÃ¾­¼ÃÑ§ÖÇ»Û½â¶ÁÖĞ¹ú has 2 clips(0 in DB), 2 clips newly downloaded
+ -01107601 ³É±¾¹ÜÀí»á¼Æ has 11 clips(0 in DB), 10 clips newly downloaded
+ -01107602 ³É±¾¹ÜÀí»á¼Æ has 9 clips(0 in DB), 9 clips newly downloaded
+ -01108301 ¹ú¼ÊÃ³Ò×ÊµÑµ has 2 clips(0 in DB), 2 clips newly downloaded
+ -01108401 ´óÊı¾İÓªÏú has 10 clips(0 in DB), 8 clips newly downloaded
+ -01108501 ¾­¼ÃÑ§ÑĞ¾¿·½·¨ has 10 clips(0 in DB), 9 clips newly downloaded
+ -01110102 ÔË³ïÑ§ has 8 clips(0 in DB), 8 clips newly downloaded
+ -01110601 ½â¶ÁÖĞ¹ú¾­¼Ã·¢Õ¹µÄÃÜÂë has 8 clips(0 in DB), 3 clips newly downloaded
+ -PAGE: current page has 10 courses.
+ -01111001 ¹«Òæ×éÖ¯¹ÜÀíÓë´´ĞÂ has 42 clips(0 in DB), 9 clips newly downloaded
+ -01111002 ¹«Òæ×éÖ¯¹ÜÀíÓë´´ĞÂ has 49 clips(0 in DB), 8 clips newly downloaded
+ -01111902 ÆóÒµ¹ÜÀí¸ÅÂÛ has 8 clips(0 in DB), 8 clips newly downloaded
+ -01112001 Ö°ÒµÉúÑÄ¹æ»®ÓëÖ°³¡ÄÜÁ¦ÌáÉı has 3 clips(0 in DB), 3 clips newly downloaded
+ -01112101 »¥ÁªÍø½ğÈÚ has 4 clips(0 in DB), 4 clips newly downloaded
+ -01112402 ³ÇÊĞÈË¿Ú¹ÜÀí¸ÅÂÛ has 7 clips(0 in DB), 7 clips newly downloaded
+ -01112702 Éú»îÖĞµÄÂß¼­ has 9 clips(0 in DB), 9 clips newly downloaded
+ -01112801 Î¢¹Û¾­¼ÃÑ§(Ó¢) has 8 clips(0 in DB), 7 clips newly downloaded
+ -02009401 ÒÕÊõÉãÓ° has 2 clips(0 in DB), 1 clips newly downloaded
+ -02010201 ÃÀÊõËØÃè has 3 clips(0 in DB), 3 clips newly downloaded
+ -PAGE: current page has 10 courses.
+ -02010401 Î÷·½ÏÖ´úÒÕÊõĞÀÉÍ has 8 clips(0 in DB), 8 clips newly downloaded
+ -02011201 ÊıÂëÉãÓ° has 0 clips(0 in DB), done.
+ -02011401 ×­¿ÌÒÕÊõ has 0 clips(0 in DB), done.
+ -02011402 ×­¿ÌÒÕÊõ has 0 clips(0 in DB), done.
+ -02016101 ¾É½¨ÖşÔÙÉúÉè¼Æ²ßÂÔ has 0 clips(0 in DB), done.
+ -02016801 Ö½¾ÓÒÕÊõÉè¼Æ has 7 clips(0 in DB), 6 clips newly downloaded
+ -02018202 ³ÇÊĞÔÄ¶Á has 5 clips(0 in DB), 5 clips newly downloaded
+ -02019201 ¾°¹ÛÓÎí¬Ñ§ has 7 clips(0 in DB), 7 clips newly downloaded
+ -02022501 Éè¼ÆÔºÊµÏ°(ÎåÄêÖÆ±¾¿Æ) has 0 clips(0 in DB), done.
+ -02022701 ±£»¤¼¼Êõ has 9 clips(0 in DB), 8 clips newly downloaded
+ -PAGE: current page has 10 courses.
+ -02023101 ³ÇÊĞ·ÖÎö·½·¨ has 7 clips(0 in DB), 7 clips newly downloaded
+ -02024001 ³ÇÏç¹æ»®Ô­Àí(A) has 9 clips(0 in DB), 9 clips newly downloaded
+ -02024301 ³ÇÏç¹æ»®Ô­Àí(D) has 8 clips(0 in DB), 7 clips newly downloaded
+ -02024401 ³ÇÊĞ¹¤³ÌÏµÍ³Óë×ÛºÏ·ÀÔÖ(1) has 7 clips(0 in DB), 6 clips newly downloaded
+ -02024701 ³ÇÊĞ»·¾³Óë³ÇÊĞÉúÌ¬Ñ§ has 9 clips(0 in DB), 8 clips newly downloaded
+ -02025001 Ïç´å¹æ»®Éè¼Æ has 2 clips(0 in DB), 0 clips newly downloaded
+ -02025101 Ô°ÁÖ¹¤³ÌÓë¹ÜÀí¼¼Êõ has 6 clips(0 in DB), 6 clips newly downloaded
+ -02026101 ½¨Öş×¨ÒµÓ¢Óï has 8 clips(0 in DB), 7 clips newly downloaded
+ -02026201 ĞéÄâÏÖÊµÏµÍ³¼°Ó¦ÓÃ has 10 clips(0 in DB), 9 clips newly downloaded
+ -02027201 É«²Ê±íÏÖ has 8 clips(0 in DB), 8 clips newly downloaded
+ -PAGE: current page has 10 courses.
+ -02027202 É«²Ê±íÏÖ has 0 clips(0 in DB), done.
+ -02027203 É«²Ê±íÏÖ has 0 clips(0 in DB), done.
+ -02028301 ÂÌÉ«½¨Öş has 7 clips(0 in DB), 7 clips newly downloaded
+ -02029201 ÒâÏóË®Ä« has 0 clips(0 in DB), done.
+ -02029202 ÒâÏóË®Ä« has 0 clips(0 in DB), done.
+ -02029301 »·¾³Óë½¨ÖşÉè¼ÆÔ­Àí has 11 clips(0 in DB), 6 clips newly downloaded
+ -02030601 Í¼½â³ÇÊĞ has 8 clips(0 in DB), 8 clips newly downloaded
+ -02031401 ÖĞ¹úµ±´ú³ÇÊĞ¹æ»®ÓëÉè¼Æ×¨ÌâÑĞÌÖ has 0 clips(0 in DB), done.
+ -02033701 ·¿Îİ½¨ÖşÑ§ has 8 clips(0 in DB), 8 clips newly downloaded
+ -02033702 ·¿Îİ½¨ÖşÑ§ has 8 clips(0 in DB), 8 clips newly downloaded
+ -PAGE: current page has 10 courses.
+ -02033703 ·¿Îİ½¨ÖşÑ§ has 8 clips(0 in DB), 7 clips newly downloaded
+ -02033704 ·¿Îİ½¨ÖşÑ§ has 8 clips(0 in DB), 8 clips newly downloaded
+ -02038001 µ±´úÒÕÊõÆÀÂÛ has 8 clips(0 in DB), 8 clips newly downloaded
+ -02038201 ÖĞÎ÷ÒÕÊõ±È½Ï(Ë«Óï) has 7 clips(0 in DB), 7 clips newly downloaded
+ -02040001 ´´ÒâÔìĞÍÒÕÊõ has 9 clips(0 in DB), 9 clips newly downloaded
+ -02040501 ½¨ÖşÒÅ²ú±£»¤·¨¹æÓë¹ÜÀí(Ó¢) has 7 clips(0 in DB), 7 clips newly downloaded
+ -02041001 Êı×Ö»¯ÒÅ²ú¾°¹Û(Ó¢) has 5 clips(0 in DB), 5 clips newly downloaded
+ -02041401 ËØÃèÓëĞ´Éú has 0 clips(0 in DB), done.
+ -02041601 ĞéÄâÌåÑéÓë×ÔÖ÷Ñ§Ï° has 1 clips(0 in DB), 1 clips newly downloaded
+ -02043301 ×¨ÌâÉè¼Æ¢ñ(»·¾³Óë½¨ÖşÉè¼Æ) has 4 clips(0 in DB), 0 clips newly downloaded
+ -PAGE: current page has 10 courses.
+ -02043401 ×¨ÌâÉè¼Æ¢ò(³ÇÊĞÓë×¡ÇøÉè¼Æ)(ÏŞ½¨ÖşÑ§) has 21 clips(0 in DB), 7 clips newly downloaded
+ -02043501 ×¨ÌâÉè¼Æ¢ò(ÊÒÄÚÉè¼Æ)(ÏŞÊÒÄÚÉè¼Æ·½Ïò) has 7 clips(0 in DB), 7 clips newly downloaded
+ -02043901 ³ÇÊĞµÀÂ·Óë½»Í¨(1) has 1 clips(0 in DB), 1 clips newly downloaded
+ -02044101 ÏêÏ¸¹æ»®Éè¼Æ(1) has 18 clips(0 in DB), 11 clips newly downloaded
+ -02044501 ¸´ºÏÉè¼Æ(¶ş) has 0 clips(0 in DB), done.
+ -02044701 ³ÇÊĞ×ÜÌå¹æ»® has 4 clips(0 in DB), 0 clips newly downloaded
+ -02045201 ³ÇÊĞÄ£ÄâÓë¹æ»®(1) has 9 clips(0 in DB), 9 clips newly downloaded
+ -02045402 ³ÇÊĞ¹æ»®Ë¼ÏëÊ· has 0 clips(0 in DB), done.
+ -02046201 ·ç¾°Ô°ÁÖ×¨ÒµÓ¢Óï(Ó¢) has 17 clips(0 in DB), 17 clips newly downloaded
+ -02047001 ¾°¹ÛÉúÌ¬Ñ§ has 9 clips(0 in DB), 7 clips newly downloaded
+ -PAGE: current page has 10 courses.
+ -02047201 ¾°¹ÛÉè¼Æ has 50 clips(0 in DB), 24 clips newly downloaded
+ -02047401 ¾°¹Û×ÜÌå¹æ»® has 23 clips(0 in DB), 20 clips newly downloaded
+ -02048301 ¸´ºÏÉè¼Æ(Îå) has 12 clips(0 in DB), 11 clips newly downloaded
+ -02048401 ¸´ºÏÉè¼Æ(Áù) has 0 clips(0 in DB), done.
+ -02048501 ½¨ÖşÀíÂÛÓëÀúÊ·(3) has 8 clips(0 in DB), 8 clips newly downloaded
+ -02048701 ·¿Îİ½¨Öş¿ÆÑ§ has 8 clips(0 in DB), 8 clips newly downloaded
+ -02049001 ½¨ÖşÒÅ²ú±£»¤Éè¼Æ¾ºÈü has 1 clips(0 in DB), 0 clips newly downloaded
+ -02049901 Ö²ÎïÎÄ»¯Óë¹ÅµäÔ°ÁÖ¿Õ¼ä has 10 clips(0 in DB), 9 clips newly downloaded
+ -02050101 ÂÌÉ«¿É³ÖĞøµÄ³ÇÊĞÓë½¨Öş´´ĞÂ has 6 clips(0 in DB), 6 clips newly downloaded
+ -02050601 ËØÃèÒÕÊõÖĞµÄ²ÄÖÊÌ½Ë÷ has 9 clips(0 in DB), 9 clips newly downloaded
+ -PAGE: current page has 10 courses.
+ -02050901 ³ÇÊĞÉ«²Ê has 9 clips(0 in DB), 9 clips newly downloaded
+ -02051001 ½¨Öş¸ÅÂÛ(Í¨Ê¶) has 7 clips(0 in DB), 7 clips newly downloaded
+ -02051401 ÀúÊ·½¨Öş±£»¤Éè¼ÆIII has 13 clips(0 in DB), 13 clips newly downloaded
+ -02051501 ×¨ÌâÉè¼ÆII(ÏŞ³ÇÊĞÉè¼Æ) has 35 clips(0 in DB), 28 clips newly downloaded
+ -02051901 ÒÅ²ú½¨Öş²ÄÁÏ²¡ÀíÑ§ has 8 clips(0 in DB), 8 clips newly downloaded
+ -02052001 ÖĞÍâ½¨Öş½»Á÷Ö®ÖĞ¹ú½üÏÖ´ú½¨Öş has 10 clips(0 in DB), 8 clips newly downloaded
+ -02052801 ×¨ÌâÉè¼Æ I(Ó¢) has 0 clips(0 in DB), done.
+ -02053001 ×¨ÌâÉè¼Æ II(Ó¢) has 19 clips(0 in DB), 16 clips newly downloaded
+ -02053101 ½¨Öş¹¹ÔìÓë½á¹¹(Ó¢) has 8 clips(0 in DB), 5 clips newly downloaded
+ -02053401 ½¨ÖşÀíÂÛÓëÀúÊ· II(Ó¢) has 8 clips(0 in DB), 8 clips newly downloaded
+ -PAGE: current page has 10 courses.
+ -02053801 Áã»ù´¡µÄ×¡Õ¬ºÍ³ÇÊĞÉè¼Æµ¼ÂÛ has 6 clips(0 in DB), 6 clips newly downloaded
+ -02054001 Êı×Ö½¨ÖşÑ§¸ÅÂÛ has 7 clips(0 in DB), 7 clips newly downloaded
+ -02054201 Ä¾¿Ì°æ»­ has 10 clips(0 in DB), 9 clips newly downloaded
+ -02054602 ³ÇÊĞÉè¼ÆI has 50 clips(0 in DB), 38 clips newly downloaded
+ -02055102 ³ÇÊĞÓë½¨ÖşÀúÊ· has 3 clips(0 in DB), 2 clips newly downloaded
+ -02056801 ÂÌÉ«Éú»îÓëÁãÄÜºÄ½¨Öş has 8 clips(0 in DB), 8 clips newly downloaded
+ -02057201 µ±´úÌÕÒÕÉè¼Æ has 5 clips(0 in DB), 4 clips newly downloaded
+ -02057301 µ±´úÔúÈ¾Éè¼Æ has 3 clips(0 in DB), 3 clips newly downloaded
+ -02057501 ½¨Öş¸ÅÂÛÓëÉè¼Æ has 8 clips(0 in DB), 8 clips newly downloaded
+ -02057701 ÇøÓòºÍ³ÇÊĞ¿Õ¼äÕ½ÂÔÒı½é(Ó¢) has 8 clips(0 in DB), 7 clips newly downloaded
+ -PAGE: current page has 10 courses.
+ -02057801 ¼ÆËã»ú¸¨ÖúÉè¼Æ(Ó¢) has 8 clips(0 in DB), 7 clips newly downloaded
+ -02058101 ³ÇÊĞÄ£ĞÍÓë½âÊÍ(Ó¢) has 0 clips(0 in DB), done.
+ -02058301 ¿ìËÙ³ÇÊĞ»¯½ø³ÌÖĞµÄ³ÇÊĞ¿É³ÖĞø½»Í¨(Ó¢) has 0 clips(0 in DB), done.
+ -02058401 ³ÇÊĞ×¡·¿Õş²ß¸ÅÂÛ(Ó¢) has 7 clips(0 in DB), 7 clips newly downloaded
+ -02058601 ÎÄ»¯¾°¹Û¸ÅÂÛ has 7 clips(0 in DB), 7 clips newly downloaded
+ -02058701 ¹âÓëÑÕÉ«µÄ¿ÆÑ§ÓëÒÕÊõ has 7 clips(0 in DB), 7 clips newly downloaded
+ -02058801 ÔË³ïÑ§(½¨Öş¡¢Éç¿ÆÁìÓò) has 8 clips(0 in DB), 5 clips newly downloaded
+ -02059001 ¾­µä×¡Õ¬ÉÍÎö has 9 clips(0 in DB), 9 clips newly downloaded
+ -02059101 ÖĞ¹ú-¶«ÄÏÑÇ½¨ÖşÒÕÊõÓëÎÄ»¯ has 8 clips(0 in DB), 8 clips newly downloaded
+ -02059201 ÈÕ±¾½¨ÖşÎÄ»¯ has 9 clips(0 in DB), 9 clips newly downloaded
+ -PAGE: current page has 10 courses.
+ -02059902 ¿ØÖÆĞÔÏêÏ¸¹æ»® has 3 clips(0 in DB), 1 clips newly downloaded
+ -02101302 ÊÒÄÚÉè¼ÆÔ­Àí has 6 clips(0 in DB), 5 clips newly downloaded
+ -02103001 ½¨ÖşÆÀÂÛ has 8 clips(0 in DB), 8 clips newly downloaded
+ -02113901 ÎÄ²©×¨Ìâ has 6 clips(0 in DB), 6 clips newly downloaded
+ -02114501 ½¨ÖşÌØÊâ¹¹Ôì has 8 clips(0 in DB), 8 clips newly downloaded
+ -02114601 ÀúÊ·½¨ÖşĞÎÖÆÓë¹¤ÒÕ has 9 clips(0 in DB), 8 clips newly downloaded
+ -02130001 ¼Ò¾ßÓë³ÂÉè has 0 clips(0 in DB), done.
+ -02130301 »·¾³¿ØÖÆÑ§ has 9 clips(0 in DB), 9 clips newly downloaded
+ -02132401 ÊÒÄÚ»·¾³±íÏÖ has 8 clips(0 in DB), 8 clips newly downloaded
+ -02203301 ³ÇÊĞÉè¼ÆÔ­Àí has 7 clips(0 in DB), 7 clips newly downloaded
+ -PAGE: current page has 10 courses.
+ -02209401 ½¨ÖşÀíÂÛÓëÀúÊ·(1) has 8 clips(0 in DB), 8 clips newly downloaded
+ -02230301 ³ÇÊĞÉè¼Æ¸ÅÂÛ has 8 clips(0 in DB), 6 clips newly downloaded
+ -02230501 µØÀíĞÅÏ¢ÏµÍ³ has 7 clips(0 in DB), 7 clips newly downloaded
+ -02406802 ¾°¹Û¹æ»®Éè¼ÆÔ­Àí has 9 clips(0 in DB), 8 clips newly downloaded
+ -02419601 ·ç¾°Çø¹æ»®Ô­Àí has 8 clips(0 in DB), 7 clips newly downloaded
+ -02420002 ÖĞÍâÔ°ÁÖÊ· has 8 clips(0 in DB), 8 clips newly downloaded
+ -03000501 »ìÄıÍÁ½á¹¹»ù±¾Ô­Àí has 7 clips(0 in DB), 7 clips newly downloaded
+ -03001901 »ìÄıÍÁ½á¹¹»ù±¾Ô­Àí¿Î³ÌÉè¼Æ has 0 clips(0 in DB), done.
+ -03001902 »ìÄıÍÁ½á¹¹»ù±¾Ô­Àí¿Î³ÌÉè¼Æ has 0 clips(0 in DB), done.
+ -03003601 ¸Ö½î»ìÄıÍÁ½á¹¹»ù±¾Ô­Àí has 13 clips(0 in DB), 13 clips newly downloaded
+ -PAGE: current page has 10 courses.
+ -03003602 ¸Ö½î»ìÄıÍÁ½á¹¹»ù±¾Ô­Àí has 13 clips(0 in DB), 13 clips newly downloaded
+ -03005601 º£°¶µØÃ²Ñ§ has 6 clips(0 in DB), 6 clips newly downloaded
+ -03006201 º½µÀ¹¤³ÌÑ§ has 8 clips(0 in DB), 8 clips newly downloaded
+ -03018701 ¸Û¿ÚË®¹¤½¨ÖşÎï has 13 clips(0 in DB), 9 clips newly downloaded
+ -03019201 µ¯ĞÔÁ¦Ñ§ has 8 clips(0 in DB), 8 clips newly downloaded
+ -03019202 µ¯ĞÔÁ¦Ñ§ has 9 clips(0 in DB), 9 clips newly downloaded
+ -03019203 µ¯ĞÔÁ¦Ñ§ has 9 clips(0 in DB), 9 clips newly downloaded
+ -03019204 µ¯ĞÔÁ¦Ñ§ has 10 clips(0 in DB), 9 clips newly downloaded
+ -03019205 µ¯ĞÔÁ¦Ñ§ has 8 clips(0 in DB), 8 clips newly downloaded
+ -03019206 µ¯ĞÔÁ¦Ñ§ has 10 clips(0 in DB), 9 clips newly downloaded
+ -PAGE: current page has 10 courses.
+ -03019207 µ¯ĞÔÁ¦Ñ§ has 9 clips(0 in DB), 9 clips newly downloaded
+ -03028501 ¹ìµÀ½»Í¨ÇÅÁº¹¤³Ì has 7 clips(0 in DB), 7 clips newly downloaded
+ -03028601 ¹ìµÀ½»Í¨ÇÅÁº¹¤³Ì¿Î³ÌÉè¼Æ has 0 clips(0 in DB), done.
+ -03029301 ½¨Éè¹¤³Ì·¨¹æ has 9 clips(0 in DB), 9 clips newly downloaded
+ -03029302 ½¨Éè¹¤³Ì·¨¹æ has 9 clips(0 in DB), 7 clips newly downloaded
+ -03029303 ½¨Éè¹¤³Ì·¨¹æ has 9 clips(0 in DB), 9 clips newly downloaded
+ -03032001 ¹¤³Ì»úµç has 0 clips(0 in DB), done.
+ -03032002 ¹¤³Ì»úµç has 0 clips(0 in DB), done.
+ -03032003 ¹¤³Ì»úµç has 0 clips(0 in DB), done.
+ -03032004 ¹¤³Ì»úµç has 0 clips(0 in DB), done.
+ -PAGE: current page has 10 courses.
+ -03033301 µØÕğ¹¤³ÌµØÖÊ has 8 clips(0 in DB), 8 clips newly downloaded
+ -03034501 µØÍ¼ÖÆÍ¼»ù´¡ has 9 clips(0 in DB), 9 clips newly downloaded
+ -03034502 µØÍ¼ÖÆÍ¼»ù´¡ has 8 clips(0 in DB), 5 clips newly downloaded
+ -03034801 ´óµØ²âÁ¿»ù´¡ has 12 clips(0 in DB), 11 clips newly downloaded
+ -03034802 ´óµØ²âÁ¿»ù´¡ has 9 clips(0 in DB), 9 clips newly downloaded
+ -03035301 ¼ÆËã»úÍ¼ĞÎÑ§ has 7 clips(0 in DB), 7 clips newly downloaded
+ -03035601 ÈËÎÄµØÀíÑ§ has 3 clips(0 in DB), 3 clips newly downloaded
+ -03036001 ÍøÂçµØÀíĞÅÏ¢ÏµÍ³ has 7 clips(0 in DB), 7 clips newly downloaded
+ -03036101 µØÑ§¼ÆËã¸ÅÂÛ has 9 clips(0 in DB), 9 clips newly downloaded
+ -03037601 ¸ß²ã½¨Öş»ù´¡ has 10 clips(0 in DB), 9 clips newly downloaded
+ -PAGE: current page has 10 courses.
+ -03038001 ÍÁ¹¤ºÏ³É²ÄÁÏ has 9 clips(0 in DB), 8 clips newly downloaded
+ -03038701 µØÃ²Ñ§ÓëµÚËÄ¼ÍµØÖÊ has 13 clips(0 in DB), 10 clips newly downloaded
+ -03039501 ÇÅÁº¹¤³Ì¿Î³ÌÉè¼Æ has 0 clips(0 in DB), done.
+ -03039901 ÍÁÄ¾¹¤³ÌÓëÍÁÄ¾¹¤³ÌÊ¦3 has 0 clips(0 in DB), done.
+ -03039902 ÍÁÄ¾¹¤³ÌÓëÍÁÄ¾¹¤³ÌÊ¦3 has 1 clips(0 in DB), 0 clips newly downloaded
+ -03040301 ÍÁÄ¾¹¤³ÌĞÅÏ¢»¯ has 9 clips(0 in DB), 9 clips newly downloaded
+ -03040302 ÍÁÄ¾¹¤³ÌĞÅÏ¢»¯ has 9 clips(0 in DB), 9 clips newly downloaded
+ -03040303 ÍÁÄ¾¹¤³ÌĞÅÏ¢»¯ has 9 clips(0 in DB), 9 clips newly downloaded
+ -03040304 ÍÁÄ¾¹¤³ÌĞÅÏ¢»¯ has 9 clips(0 in DB), 8 clips newly downloaded
+ -03040305 ÍÁÄ¾¹¤³ÌĞÅÏ¢»¯ has 9 clips(0 in DB), 9 clips newly downloaded
+ -PAGE: current page has 10 courses.
+ -03040306 ÍÁÄ¾¹¤³ÌĞÅÏ¢»¯ has 9 clips(0 in DB), 9 clips newly downloaded
+ -03040307 ÍÁÄ¾¹¤³ÌĞÅÏ¢»¯ has 9 clips(0 in DB), 9 clips newly downloaded
+ -03040308 ÍÁÄ¾¹¤³ÌĞÅÏ¢»¯ has 9 clips(0 in DB), 8 clips newly downloaded
+ -03040701 ¸ßµÈ½á¹¹ÊÔÑé has 9 clips(0 in DB), 9 clips newly downloaded
+ -03040702 ¸ßµÈ½á¹¹ÊÔÑé has 6 clips(0 in DB), 3 clips newly downloaded
+ -03040901 ¿Õ¼ä½á¹¹ has 9 clips(0 in DB), 9 clips newly downloaded
+ -03041001 ½¨Öş½á¹¹¿¹»ğ has 9 clips(0 in DB), 9 clips newly downloaded
+ -03041101 ½¨Öş½á¹¹¿¹±¬ has 9 clips(0 in DB), 9 clips newly downloaded
+ -03041301 µØÏÂ½á¹¹CADÓë¶ş´Î¿ª·¢ has 7 clips(0 in DB), 5 clips newly downloaded
+ -03041801 ÇÅÁº¹¤³Ì(ÏÂ) has 17 clips(0 in DB), 15 clips newly downloaded
+ -PAGE: current page has 10 courses.
+ -03041802 ÇÅÁº¹¤³Ì(ÏÂ) has 16 clips(0 in DB), 15 clips newly downloaded
+ -03042801 ÇÅÁº¹¤³Ì·¢Õ¹ÓëÕ¹Íû has 0 clips(0 in DB), done.
+ -03043301 ÍÁÄ¾¹¤³Ì¼Ó¹ÌÊ©¹¤ has 24 clips(0 in DB), 11 clips newly downloaded
+ -03043601 ¹¤³Ì±£ÏÕÑ§ has 9 clips(0 in DB), 
