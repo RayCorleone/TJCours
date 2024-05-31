@@ -1,7 +1,7 @@
 # TJCours
 > TJ Crawler 网上课程直链获取(courses.tongji)
 >
-> **P.S. 更多材料，请联系邮箱 rayhuc@163.com，并备注说明来意**
+> **P.S. 更多材料，请联系邮箱 rayhuc@163.com，并备注说明来意 (请注意基本的礼貌，谢谢)**
 
 <br/>
 
